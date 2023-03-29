@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1677610229106
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677609288820
+  login: 1677609297206
+money: '0'
+last-account-name: moth
+logoutlocation:
+  world: f686797d-39e9-4ec8-b42b-bc74549738ee
+  world-name: world
+  x: 507.51352784270983
+  y: 68.0
+  z: 504.88176290128666
+  yaw: 228.83544921875
+  pitch: 16.0535945892334
+lastlocation:
+  world: f686797d-39e9-4ec8-b42b-bc74549738ee
+  world-name: world
+  x: 483.8993499227274
+  y: -61.80467321940656
+  z: 493.1738820030047
+  yaw: 358.413330078125
+  pitch: 89.25
+homes:
+  home:
+    world: f686797d-39e9-4ec8-b42b-bc74549738ee
+    world-name: world
+    x: 506.44210538200883
+    y: 68.0
+    z: 524.2439673606132
+    yaw: 232.11407470703125
+    pitch: 47.399993896484375

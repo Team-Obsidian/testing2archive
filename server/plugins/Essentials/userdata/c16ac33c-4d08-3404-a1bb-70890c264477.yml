@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1677508311851
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677508384965
+  login: 1677507470166
+money: '0'
+last-account-name: Sofa
+logoutlocation:
+  world: f686797d-39e9-4ec8-b42b-bc74549738ee
+  world-name: world
+  x: 200.62462405176262
+  y: 57.0
+  z: -40.7301105203573
+  yaw: 175.95068359375
+  pitch: 87.75
+lastlocation:
+  world: f686797d-39e9-4ec8-b42b-bc74549738ee
+  world-name: world
+  x: 238.09039425197963
+  y: 80.0
+  z: -14.735836142498297
+  yaw: 175.65069580078125
+  pitch: 90.0

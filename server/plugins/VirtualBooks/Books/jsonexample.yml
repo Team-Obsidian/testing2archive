@@ -1,0 +1,26 @@
+command: jsonexample
+permission: jsonexample.perm
+Title: JsonExample
+Author: TheBlazingPro
+pages:
+  '1':
+  - '&6Server Stats:'
+  - ' '
+  - '&c* {tps}'
+  - '&c* {ram}'
+  - '&c* {players}'
+tps:
+  TEXT: '&2[TPS]'
+  HOVER_TEXT: '%server_tps%'
+  CLICK_EVENT:
+    OPEN_URL: https://spigotmc.org
+ram:
+  TEXT: '&2[RAM]'
+  HOVER_TEXT: '&2%server_ram_used%/%server_ram_max%'
+  CLICK_EVENT:
+    OPEN_URL: https://spigotmc.org
+players:
+  TEXT: '&2[PLAYERS]'
+  HOVER_TEXT: '&2%server_online%/%server_max_players%'
+  CLICK_EVENT:
+    SEND_MSG_TO_PLAYER: https://spigotmc.org

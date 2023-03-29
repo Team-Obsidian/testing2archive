@@ -1,0 +1,9 @@
+command: firstjoinbook
+permission: firstjoinbook.perm
+Title: FirstJoinBook
+Author: TheBlazingPro
+pages:
+  '1':
+  - '&2Welcome to the server!'
+  - ' '
+  - '&2You joined for the &2first time!'

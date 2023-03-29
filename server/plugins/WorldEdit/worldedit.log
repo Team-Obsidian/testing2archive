@@ -1,0 +1,506 @@
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): up 1 - Position: (162.53990487864309, 64.92535792538426, -86.87055568812485)
+[INFO] WorldEdit: test (in "world"): /set glass - Region: (162.0, 49.0, -87.0) - (177.0, 64.0, -78.0)
+[INFO] WorldEdit: test (in "world"): /undo
+[INFO] WorldEdit: test (in "world"): help
+[INFO] WorldEdit: test (in "world"): help 2
+[INFO] WorldEdit: test (in "world"): help 4
+[INFO] WorldEdit: test (in "world"): help 14
+[INFO] WorldEdit: test (in "world"): /set glass - Region: (128.0, 64.0, -130.0) - (162.0, 64.0, -87.0)
+[INFO] WorldEdit: test (in "world"): /set glass - Region: (128.0, 63.0, -130.0) - (162.0, 64.0, -87.0)
+[INFO] WorldEdit: test (in "world"): /set air - Region: (129.0, 64.0, -129.0) - (161.0, 64.0, -88.0)
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): /expand vert - Region: (128.0, 64.0, -130.0) - (162.0, 64.0, -87.0)
+[INFO] WorldEdit: test (in "world"): /wand
+[INFO] WorldEdit: test (in "world"): up 1 - Position: (267.2146897423595, 78.9893507896858, 9.929137947571547)
+[INFO] WorldEdit: test (in "world"): up 1 - Position: (169.5377660526846, 71.14340438038457, -92.31558709513175)
+[INFO] WorldEdit: test (in "world"): /expand max vert - Region: (169.0, 71.0, -93.0) - (267.0, 78.0, 9.0)
+[INFO] WorldEdit: test (in "world"): /expand max 256 vertical - Region: (169.0, 71.0, -93.0) - (267.0, 78.0, 9.0)
+[INFO] WorldEdit: test (in "world"): /expand 256 vertical - Region: (169.0, 71.0, -93.0) - (267.0, 78.0, 9.0)
+[INFO] WorldEdit: test (in "world"): /expand 256 y - Region: (169.0, 71.0, -93.0) - (267.0, 78.0, 9.0)
+[INFO] WorldEdit: test (in "world"): /expand y-axis - Region: (169.0, 71.0, -93.0) - (267.0, 78.0, 9.0)
+[INFO] WorldEdit: test (in "world"): /expand 256 y-axis - Region: (169.0, 71.0, -93.0) - (267.0, 78.0, 9.0)
+[INFO] WorldEdit: test (in "world"): /expand 256 up - Region: (169.0, 71.0, -93.0) - (267.0, 78.0, 9.0)
+[INFO] WorldEdit: test (in "world"): /expand 256 down - Region: (169.0, 71.0, -93.0) - (267.0, 255.0, 9.0)
+[INFO] WorldEdit: test (in "world"): /expand vert - Region: (169.0, 0.0, -93.0) - (267.0, 255.0, 9.0)
+[INFO] WorldEdit: test (in "world"): /contract 256 up - Region: (169.0, 0.0, -93.0) - (267.0, 255.0, 9.0)
+[INFO] WorldEdit: test (in "world"): /contract 256 down - Region: (169.0, 255.0, -93.0) - (267.0, 255.0, 9.0)
+[INFO] WorldEdit: test (in "world"): /contract 10 down - Region: (169.0, 0.0, -93.0) - (267.0, 255.0, 9.0)
+[INFO] WorldEdit: test (in "world"): /contract 80 down - Region: (169.0, 0.0, -93.0) - (267.0, 245.0, 9.0)
+[INFO] WorldEdit: test (in "world"): /contract 100 down - Region: (169.0, 0.0, -93.0) - (267.0, 165.0, 9.0)
+[INFO] WorldEdit: test (in "world"): /expand vert - Region: (169.0, 0.0, -93.0) - (267.0, 65.0, 9.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /fill air pos1 pos2 - Position: (315.0, 74.0, -233.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /fill air 2 - Position: (315.0, 74.0, -235.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /fill air 5 - Position: (315.0, 74.0, -237.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /fill air 5 5 - Position: (315.0, 74.0, -237.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set air - Region: (308.0, 74.0, -245.0) - (312.0, 77.0, -234.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set air - Region: (312.0, 74.0, -234.0) - (319.0, 74.0, -221.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set air - Region: (320.0, 74.0, -229.0) - (328.0, 77.0, -220.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /green - Position: (321.0, 74.0, -237.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /green - Position: (323.0, 75.0, -230.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /green - Position: (309.0, 75.0, -237.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /green - Position: (316.0, 75.0, -244.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /replace stone grass - Region: (320.0, 74.0, -229.0) - (328.0, 77.0, -220.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /replace stone grass - Region: (320.0, 74.0, -229.0) - (328.0, 77.0, -220.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /pos2 - Position: (159.5516403659427, 73.14372040961918, -126.35158557919368)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /walls iron_block - Region: (133.0, 64.0, -127.0) - (159.0, 73.0, -90.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set iron_block - Region: (133.0, 73.0, -127.0) - (159.0, 73.0, -90.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set stone - Region: (134.0, 63.0, -126.0) - (158.0, 63.0, -91.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /undo
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set sea_lantern - Region: (134.0, 64.0, -126.0) - (158.0, 64.0, -91.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set quartz - Region: (133.0, 64.0, -90.0) - (133.0, 74.0, -90.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set quartz - Region: (133.0, 74.0, -90.0) - (159.0, 74.0, -90.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set quartz - Region: (159.0, 64.0, -90.0) - (159.0, 74.0, -90.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set quartz - Region: (159.0, 64.0, -127.0) - (159.0, 74.0, -90.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /undo
+[INFO] WorldEdit: Aadit_Naik (in "world"): /undo
+[INFO] WorldEdit: Aadit_Naik (in "world"): /redo
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set quartz - Region: (159.0, 74.0, -127.0) - (159.0, 74.0, -90.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /redo
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set quartz - Region: (159.0, 64.0, -127.0) - (159.0, 74.0, -127.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set quartz - Region: (133.0, 64.0, -127.0) - (159.0, 74.0, -127.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /undo
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set quartz - Region: (133.0, 74.0, -127.0) - (159.0, 74.0, -127.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set quartz - Region: (133.0, 64.0, -127.0) - (133.0, 74.0, -127.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set quartz - Region: (133.0, 64.0, -127.0) - (133.0, 74.0, -90.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /undo
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set quartz - Region: (133.0, 74.0, -127.0) - (133.0, 74.0, -90.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /pos1 - Position: (159.68058876562503, 80.5205867805976, -93.5204354015282)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /pos2 - Position: (159.6555186946121, 86.50193144602397, -123.36966656439748)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set barrier - Region: (159.0, 80.0, -124.0) - (159.0, 86.0, -94.0)
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set sea_lanturn - Region: (160.0, 73.0, -124.0) - (160.0, 73.0, -93.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set sea_lanturn - Region: (160.0, 67.0, -124.0) - (160.0, 73.0, -124.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set sea_lanturn - Region: (160.0, 67.0, -124.0) - (160.0, 67.0, -93.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /hpos1
+[INFO] WorldEdit: Aadit_Naik (in "world"): /hpos2
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set wood_slab - Region: (172.0, 64.0, -74.0) - (184.0, 64.0, -73.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /hpos1
+[INFO] WorldEdit: Aadit_Naik (in "world"): /pos1 - Position: (228.5342939243913, 62.882487558874466, -61.56277091474287)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /pos2 - Position: (228.58610708531484, 62.882487558874466, -81.69919578260846)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set quartz - Region: (228.0, 62.0, -82.0) - (228.0, 62.0, -62.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set quartz - Region: (209.0, 62.0, -82.0) - (228.0, 62.0, -82.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set powered_rail - Region: (228.0, 63.0, -81.0) - (228.0, 63.0, -64.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /pos2 - Position: (201.50928269345604, 72.14126822346505, -81.68538957404665)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set quartz - Region: (201.0, 63.0, -82.0) - (207.0, 72.0, -82.0)
+[INFO] WorldEdit: test (in "world"): up 2 - Position: (207.38370282477229, 66.86512832193183, -78.30000001192093)
+[INFO] WorldEdit: test (in "world"): /set air - Region: (203.0, 63.0, -79.0) - (207.0, 67.0, -76.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /pos2 - Position: (162.65763721339195, 70.33301934692848, -81.33069480542386)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set quartz - Region: (162.0, 70.0, -82.0) - (201.0, 70.0, -82.0)
+[INFO] WorldEdit: test (in "world"): /set sand - Region: (202.0, 63.0, -81.0) - (207.0, 63.0, -75.0)
+[INFO] WorldEdit: test (in "world"): /set sand - Region: (202.0, 63.0, -81.0) - (207.0, 63.0, -75.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set powered_rail - Region: (162.0, 71.0, -82.0) - (201.0, 71.0, -82.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set glowstone - Region: (154.0, 71.0, -83.0) - (201.0, 71.0, -83.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set glowstone - Region: (154.0, 71.0, -81.0) - (201.0, 71.0, -81.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /copy
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (198.0, 66.0, -62.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /undo
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (201.0, 66.0, -60.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /undo
+[INFO] WorldEdit: YeeterDev949 (in "world"): /undo
+[INFO] WorldEdit: HelpLess (in "world"): /wand
+[INFO] WorldEdit: HelpLess (in "world"): /replace stone - Region: (225.0, 62.0, 17.0) - (228.0, 62.0, 48.0)
+[INFO] WorldEdit: HelpLess (in "world"): /replace stone - Region: (231.0, 62.0, 20.0) - (234.0, 62.0, 47.0)
+[INFO] WorldEdit: HelpLess (in "world"): /set Stone - Region: (231.0, 62.0, 19.0) - (234.0, 62.0, 20.0)
+[INFO] WorldEdit: HelpLess (in "world"): /set Stone - Region: (235.0, 62.0, 23.0) - (239.0, 62.0, 44.0)
+[INFO] WorldEdit: HelpLess (in "world"): /set Stone - Region: (229.0, 62.0, 25.0) - (241.0, 62.0, 47.0)
+[INFO] WorldEdit: HelpLess (in "world"): /set Stone - Region: (219.0, 62.0, 22.0) - (231.0, 62.0, 46.0)
+[INFO] WorldEdit: HelpLess (in "world"): /set Stone - Region: (215.0, 62.0, 21.0) - (218.0, 62.0, 45.0)
+[INFO] WorldEdit: HelpLess (in "world"): /set Stone - Region: (210.0, 62.0, 26.0) - (219.0, 62.0, 42.0)
+[INFO] WorldEdit: HelpLess (in "world"): /set Stone - Region: (210.0, 62.0, 23.0) - (213.0, 62.0, 26.0)
+[INFO] WorldEdit: HelpLess (in "world"): /set Stone - Region: (214.0, 62.0, 22.0) - (214.0, 62.0, 26.0)
+[INFO] WorldEdit: HelpLess (in "world"): /faces stone - Region: (214.0, 62.0, 17.0) - (234.0, 62.0, 26.0)
+[INFO] WorldEdit: test2 (in "world"): /wand
+[INFO] WorldEdit: test (in "world"): /wand
+[INFO] WorldEdit: test (in "world"): /cut - Region: (186.0, 167.0, -48.0) - (190.0, 169.0, -44.0)
+[INFO] WorldEdit: test (in "world"): /paste - Position: (190.0, 167.0, -44.0)
+[INFO] WorldEdit: test (in "world"): /undo
+[INFO] WorldEdit: test (in "world"): /undo
+[INFO] WorldEdit: test (in "world"): /cut - Region: (186.0, 167.0, -48.0) - (190.0, 169.0, -44.0)
+[INFO] WorldEdit: test (in "world"): /paste - Position: (188.0, 167.0, -46.0)
+[INFO] WorldEdit: test (in "world"): /undo
+[INFO] WorldEdit: test (in "world"): /cut - Region: (186.0, 164.0, -48.0) - (190.0, 166.0, -44.0)
+[INFO] WorldEdit: test (in "world"): /paste - Position: (188.0, 168.0, -46.0)
+[INFO] WorldEdit: test (in "world"): /undo
+[INFO] WorldEdit: test (in "world"): /paste - Position: (188.0, 169.0, -46.0)
+[INFO] WorldEdit: test (in "world"): up 1 - Position: (189.1017365914396, 69.10979733323795, -105.23718448150412)
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): /wand
+[INFO] WorldEdit: test (in "world"): help
+[INFO] WorldEdit: test (in "world"): help 2
+[INFO] WorldEdit: test (in "world"): help 3
+[INFO] WorldEdit: test (in "world"): help 4
+[INFO] WorldEdit: test (in "world"): help 5
+[INFO] WorldEdit: test (in "world"): help 6
+[INFO] WorldEdit: test (in "world"): help 7
+[INFO] WorldEdit: test (in "world"): help 8
+[INFO] WorldEdit: test (in "world"): help 9
+[INFO] WorldEdit: test (in "world"): help 10
+[INFO] WorldEdit: test (in "world"): help 11
+[INFO] WorldEdit: test (in "world"): help 12
+[INFO] WorldEdit: test (in "world"): help 13
+[INFO] WorldEdit: test (in "world"): help 14
+[INFO] WorldEdit: test (in "world"): help 1
+[INFO] WorldEdit: test (in "world"): help 2
+[INFO] WorldEdit: test (in "world"): help 3
+[INFO] WorldEdit: test (in "world"): help 4
+[INFO] WorldEdit: test (in "world"): help 5
+[INFO] WorldEdit: test (in "world"): floodfill stone_brick 3
+[INFO] WorldEdit: test (in "world"): floodfill stone_brick 3
+[INFO] WorldEdit: test (in "voidworld"): thru
+[INFO] WorldEdit: test (in "voidworld"): up 3 - Position: (-17.253624842576514, 64.85808498254127, 7.356097954464925)
+[INFO] WorldEdit: test (in "voidworld"): /set glass - Region: (-18.0, 63.0, 7.0) - (-17.0, 66.0, 13.0)
+[INFO] WorldEdit: test (in "voidworld"): up 3 - Position: (-16.5705396524199, 69.61976000172729, 24.814050193889962)
+[INFO] WorldEdit: test (in "voidworld"): /set glass - Region: (-17.0, 63.0, 7.0) - (-17.0, 71.0, 24.0)
+[INFO] WorldEdit: test (in "voidworld"): up 120 - Position: (-15.341966715935866, 64.78029053517399, 76.17618831701569)
+[INFO] WorldEdit: test (in "voidworld"): /set glass - Region: (-17.0, 63.0, 7.0) - (-16.0, 183.0, 76.0)
+[INFO] WorldEdit: test (in "voidtime"): up 0 - Position: (0.0, 0.5838803092760445, 0.0)
+[INFO] WorldEdit: test (in "voidtime"): up 1 - Position: (0.5, 0.0, 0.5)
+[INFO] WorldEdit: test (in "voidtime"): up 20 - Position: (0.6018409221395588, 1.0, 0.6951809961084149)
+[INFO] WorldEdit: test (in "voidtime"): up 129 - Position: (0.5, 1.0, 0.5)
+[INFO] WorldEdit: test (in "voidtime"): up 59 - Position: (0.5, 1.0, 0.5)
+[INFO] WorldEdit: test (in "voidtime"): thru
+[INFO] WorldEdit: test (in "voidtime"): thru
+[INFO] WorldEdit: test (in "voidtime"): thru
+[INFO] WorldEdit: test (in "voidtime"): thru
+[INFO] WorldEdit: HelpLess (in "world"): / clear
+[INFO] WorldEdit: HelpLess (in "world"): /cut - Region: (210.0, 62.0, 23.0) - (212.0, 63.0, 42.0)
+[INFO] WorldEdit: HelpLess (in "world"): /replace stone water - Region: (209.0, 62.0, 26.0) - (209.0, 62.0, 37.0)
+[INFO] WorldEdit: HelpLess (in "world"): /replace stone water - Region: (213.0, 62.0, 17.0) - (214.0, 62.0, 24.0)
+[INFO] WorldEdit: HelpLess (in "world"): /replace stone water - Region: (213.0, 63.0, 17.0) - (219.0, 63.0, 20.0)
+[INFO] WorldEdit: test (in "world"): floodfill stained_glass:1 3
+[INFO] WorldEdit: test (in "world"): floodfill stained_glass:0 3
+[INFO] WorldEdit: test (in "world"): floodfill stained_glass:5 3
+[INFO] WorldEdit: test (in "world"): floodfill stained_glass:6 3
+[INFO] WorldEdit: test (in "world"): floodfill stained_glass:9 3
+[INFO] WorldEdit: test (in "world"): /undo
+[INFO] WorldEdit: test (in "world"): /undo
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): /wand
+[INFO] WorldEdit: test (in "world"): /expand vert - Region: (221.0, 83.0, -46.0) - (221.0, 108.0, -46.0)
+[INFO] WorldEdit: test (in "waiting_room"): up 5 - Position: (0.0, -14.554141162874998, 0.0)
+[INFO] WorldEdit: test (in "waiting_room"): up 60 - Position: (0.44658753354997155, 5.0, 0.42619917842361354)
+[INFO] WorldEdit: test (in "waiting_room"): /wand
+[INFO] WorldEdit: test (in "waiting_room"): /cut - Region: (-2.0, 69.0, -3.0) - (1.0, 69.0, 3.0)
+[INFO] WorldEdit: test (in "waiting_room"): /paste - Position: (0.0, 69.0, -3.0)
+[INFO] WorldEdit: test (in "waiting_room"): /wand
+[INFO] WorldEdit: test (in "waiting_room"): /set lapiz_lazuli_block - Region: (3.0, 65.0, -3.0) - (3.0, 68.0, 6.0)
+[INFO] WorldEdit: test (in "waiting_room"): /set stained_clay - Region: (5.0, 65.0, -4.0) - (5.0, 68.0, 2.0)
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): /set air - Region: (5.0, 65.0, -4.0) - (5.0, 68.0, 2.0)
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): /set air - Region: (-5.0, 65.0, -6.0) - (-5.0, 68.0, 2.0)
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): floodfill stained_glass:3 2
+[INFO] WorldEdit: test (in "waiting_room"): floodfill stained_glass_pane:3 2
+[INFO] WorldEdit: test (in "waiting_room"): floodfill stained_glass_pane:2 2
+[INFO] WorldEdit: test (in "waiting_room"): floodfill stained_glass_pane:4 2
+[INFO] WorldEdit: test (in "waiting_room"): floodfill stained_glass_pane:10 2
+[INFO] WorldEdit: test (in "waiting_room"): floodfill stained_glass_pane:9 2
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): /set glass - Region: (-12.0, 72.0, -1.0) - (-4.0, 72.0, 5.0)
+[INFO] WorldEdit: test (in "waiting_room"): /set wool - Region: (-12.0, 72.0, -1.0) - (-4.0, 72.0, 5.0)
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "world"): /set quartz_block - Region: (251.0, 63.0, -141.0) - (286.0, 63.0, -97.0)
+[INFO] WorldEdit: test (in "world"): /wand
+[INFO] WorldEdit: YeeterDev949 (in "world"): /wand
+[INFO] WorldEdit: test (in "world"): up 5 - Position: (251.39037711649303, 66.00006635763452, -127.4708410287611)
+[INFO] WorldEdit: test (in "world"): /set quartz_block - Region: (251.0, 63.0, -141.0) - (251.0, 70.0, -128.0)
+[INFO] WorldEdit: test (in "world"): /undo
+[INFO] WorldEdit: YeeterDev949 (in "world"): up 6 - Position: (251.3834795238617, 70.0, -97.74779705811557)
+[INFO] WorldEdit: test (in "world"): up -1 - Position: (155.39904597526868, 71.20000004768372, -120.31439962170025)
+[INFO] WorldEdit: YeeterDev949 (in "world"): /set quartz_Block - Region: (251.0, 63.0, -141.0) - (254.0, 63.0, -141.0)
+[INFO] WorldEdit: test (in "world"): up 1 - Position: (155.39904597526868, 70.08774511465842, -120.31439962170025)
+[INFO] WorldEdit: test (in "world"): /set cobblestone - Region: (137.0, 65.0, -121.0) - (155.0, 70.0, -121.0)
+[INFO] WorldEdit: test (in "world"): /copy
+[INFO] WorldEdit: test (in "world"): /paste - Position: (155.0, 71.0, -116.0)
+[INFO] WorldEdit: test (in "world"): /paste - Position: (155.0, 71.0, -111.0)
+[INFO] WorldEdit: test (in "world"): /paste - Position: (155.0, 71.0, -106.0)
+[INFO] WorldEdit: test (in "world"): /paste - Position: (155.0, 71.0, -101.0)
+[INFO] WorldEdit: YeeterDev949 (in "world"): /set quartz_block - Region: (251.0, 63.0, -141.0) - (251.0, 75.0, -100.0)
+[INFO] WorldEdit: YeeterDev949 (in "world"): up 12 - Position: (251.2609127326004, 64.0, -96.69999998807907)
+[INFO] WorldEdit: YeeterDev949 (in "world"): /set quartz_block - Region: (251.0, 63.0, -97.0) - (286.0, 75.0, -97.0)
+[INFO] WorldEdit: YeeterDev949 (in "world"): up 12 - Position: (286.29800794211957, 64.0, -97.30000001192093)
+[INFO] WorldEdit: YeeterDev949 (in "world"): /set quartz_block - Region: (286.0, 63.0, -141.0) - (286.0, 75.0, -98.0)
+[INFO] WorldEdit: YeeterDev949 (in "world"): up 12 - Position: (252.3000000119209, 64.0, -140.48185817323437)
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: YeeterDev949 (in "world"): /set quartz_block - Region: (252.0, 63.0, -141.0) - (285.0, 75.0, -141.0)
+[INFO] WorldEdit: YeeterDev949 (in "world"): /set quartz_block - Region: (252.0, 69.0, -140.0) - (285.0, 69.0, -98.0)
+[INFO] WorldEdit: YEET (in "world"): /wand
+[INFO] WorldEdit: YEET (in "world"): /set sea_lanturn - Region: (155.0, 29.0, -128.0) - (155.0, 63.0, -128.0)
+[INFO] WorldEdit: YEET (in "world"): /set iron_block - Region: (155.0, 29.0, -128.0) - (155.0, 63.0, -128.0)
+[INFO] WorldEdit: YEET (in "world"): /set iron_block - Region: (154.0, 29.0, -129.0) - (154.0, 63.0, -129.0)
+[INFO] WorldEdit: YeeterDev949 (in "world"): /set quartz-block - Region: (256.0, 63.0, -140.0) - (256.0, 64.0, -97.0)
+[INFO] WorldEdit: YEET (in "world"): /set iron_block - Region: (153.0, 29.0, -128.0) - (153.0, 63.0, -128.0)
+[INFO] WorldEdit: YEET (in "world"): /set iron_block - Region: (154.0, 30.0, -127.0) - (154.0, 63.0, -127.0)
+[INFO] WorldEdit: YEET (in "world"): /set air - Region: (154.0, 30.0, -128.0) - (154.0, 63.0, -128.0)
+[INFO] WorldEdit: YeeterDev949 (in "world"): /set quartz_Block - Region: (258.0, 64.0, -111.0) - (286.0, 64.0, -111.0)
+[INFO] WorldEdit: YeeterDev949 (in "world"): /set quartz_block - Region: (258.0, 64.0, -127.0) - (286.0, 64.0, -127.0)
+[INFO] WorldEdit: YeeterDev949 (in "world"): /set chest - Region: (283.0, 64.0, -141.0) - (283.0, 64.0, -127.0)
+[INFO] WorldEdit: test (in "waiting_room"): /cut - Region: (2.0, 69.0, 1.0) - (3.0, 69.0, 1.0)
+[INFO] WorldEdit: test (in "waiting_room"): /paste - Position: (3.0, 69.0, 0.0)
+[INFO] WorldEdit: test (in "waiting_room"): /paste - Position: (1.0, 69.0, 0.0)
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set iron - Region: (195.0, 67.0, -47.0) - (205.0, 67.0, -37.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set iron - Region: (196.0, 68.0, -46.0) - (204.0, 68.0, -38.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set iron - Region: (197.0, 69.0, -45.0) - (203.0, 69.0, -39.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set iron - Region: (198.0, 70.0, -44.0) - (202.0, 70.0, -40.0)
+[INFO] WorldEdit: test (in "world"): up 1 - Position: (317.9936491359799, 65.24892178551173, -168.61854746982186)
+[INFO] WorldEdit: test (in "world"): /expand vert - Region: (251.0, 75.0, -141.0) - (286.0, 75.0, -97.0)
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): /set air - Region: (141.0, 69.0, -128.0) - (155.0, 74.0, -128.0)
+[INFO] WorldEdit: test (in "world"): /set air - Region: (141.0, 69.0, -128.0) - (155.0, 74.0, -128.0)
+[INFO] WorldEdit: test (in "world"): /undo
+[INFO] WorldEdit: test (in "world"): /undo
+[INFO] WorldEdit: test (in "world"): /undo
+[INFO] WorldEdit: test (in "world"): /undo
+[INFO] WorldEdit: test (in "world"): /set air - Region: (139.0, 68.0, -127.0) - (154.0, 74.0, -127.0)
+[INFO] WorldEdit: test (in "world"): /undo
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): /expand vert - Region: (128.0, 64.0, -130.0) - (162.0, 64.0, -87.0)
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): /pos1 162,28,-130 - Position: (162.50294811436802, 65.0, -129.6983048167306)
+[INFO] WorldEdit: test (in "world"): up 2 - Position: (128.4707702553268, 77.11847783382731, -86.29148497826496)
+[INFO] WorldEdit: test (in "world"): up 8 - Position: (282.66913375976094, 33.0, -167.79417612682693)
+[INFO] WorldEdit: test (in "world"): up 1 - Position: (328.136895680992, 121.40775686371865, 56.682238623913136)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /copy
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (153.0, 25.0, -130.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (153.0, 25.0, -131.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (153.0, 25.0, -132.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (153.0, 25.0, -133.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (152.0, 25.0, -134.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (153.0, 25.0, -135.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (154.0, 25.0, -134.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (152.0, 25.0, -133.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (155.0, 25.0, -133.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (155.0, 25.0, -133.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (155.0, 25.0, -133.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (156.0, 25.0, -134.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /copy
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (154.0, 25.0, -132.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (154.0, 25.0, -133.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (154.0, 25.0, -133.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (155.0, 25.0, -134.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (155.0, 25.0, -134.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (156.0, 25.0, -135.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (155.0, 25.0, -135.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (153.0, 25.0, -135.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (152.0, 25.0, -133.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (152.0, 25.0, -129.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (144.0, 25.0, -133.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /undo
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (144.0, 25.0, -131.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (144.0, 25.0, -136.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (144.0, 25.0, -136.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (145.0, 25.0, -135.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /paste - Position: (145.0, 25.0, -129.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set stone_brick - Region: (226.0, 62.0, 5.0) - (230.0, 62.0, 16.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set air - Region: (226.0, 62.0, -21.0) - (229.0, 64.0, 5.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set air - Region: (230.0, 63.0, -21.0) - (230.0, 64.0, 2.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set stone_brick - Region: (226.0, 62.0, -22.0) - (230.0, 64.0, -21.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /undo
+[INFO] WorldEdit: Aadit_Naik (in "world"): /pos1 - Position: (226.250221889452, 63.0, -21.684092566188724)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /pos2 - Position: (230.2919976692174, 63.0, 4.66116042874847)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set stone_brick - Region: (226.0, 63.0, -22.0) - (230.0, 63.0, 4.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /undo
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set stone_brick - Region: (226.0, 62.0, -22.0) - (230.0, 62.0, 4.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set air - Region: (226.0, 65.0, -20.0) - (230.0, 65.0, 2.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set sea_lanturn - Region: (231.0, 62.0, -22.0) - (231.0, 62.0, 17.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set sea_lanturn - Region: (225.0, 62.0, -22.0) - (225.0, 62.0, 16.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set glass - Region: (225.0, 63.0, -23.0) - (225.0, 64.0, 15.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set glass - Region: (231.0, 63.0, -22.0) - (231.0, 64.0, 16.0)
+[INFO] WorldEdit: YeeterDev949 (in "world"): /wand
+[INFO] WorldEdit: YeeterDev949 (in "world"): /set quartz_block - Region: (251.0, 76.0, -141.0) - (286.0, 76.0, -97.0)
+[INFO] WorldEdit: YeeterDev949 (in "world"): /set quartz_block - Region: (209.0, 62.0, -113.0) - (249.0, 62.0, -113.0)
+[INFO] WorldEdit: YeeterDev949 (in "world"): /set quartz_block - Region: (209.0, 62.0, -113.0) - (249.0, 62.0, -113.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /pos1 - Position: (268.93249782425596, 70.0, -253.82551156151663)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /pos2 - Position: (259.56512958059704, 75.48900784528553, -261.7120959112762)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /walls stone_brick - Region: (259.0, 70.0, -262.0) - (268.0, 75.0, -254.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /pos1 - Position: (262.84968340177784, 72.0, -258.7082260817986)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /pos2 - Position: (250.4269248737639, 75.2516325147084, -268.7128284129878)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /walls stone_brick - Region: (250.0, 72.0, -269.0) - (262.0, 75.0, -259.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /undo
+[INFO] WorldEdit: Aadit_Naik (in "world"): /undo
+[INFO] WorldEdit: Aadit_Naik (in "world"): /pos1 - Position: (271.6298691405782, 70.0, -252.67279299746525)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /pos2 - Position: (259.5305833034563, 72.0, -265.69580021017157)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /walls stone_brick - Region: (259.0, 70.0, -266.0) - (271.0, 72.0, -253.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /undo
+[INFO] WorldEdit: Aadit_Naik (in "world"): /pos2 - Position: (266.5720752034948, 71.0, -252.4351690033181)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /pos1 - Position: (258.5844173164768, 72.0, -261.3044980945824)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /walls stone_brick - Region: (258.0, 71.0, -262.0) - (266.0, 72.0, -253.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /pos1 - Position: (261.46148579874375, 72.0, -258.47981938773796)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /pos2 - Position: (252.79282084301022, 72.27755903922592, -267.186694472612)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /walls stone_brick - Region: (252.0, 72.0, -268.0) - (261.0, 72.0, -259.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /pos1 - Position: (254.9573455771799, 72.0, -265.1469567015829)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /pos2 - Position: (245.88358746065373, 69.0, -276.18238217162536)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /walls stone_brick - Region: (245.0, 69.0, -277.0) - (254.0, 72.0, -266.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /pos1 - Position: (246.30000001192082, 70.13602588915636, -275.6999999880791)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /pos2 - Position: (234.53152581109953, 66.0, -285.4542613585823)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /walls stone_brick - Region: (234.0, 66.0, -286.0) - (246.0, 70.0, -276.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set stone_brick - Region: (234.0, 70.0, -286.0) - (246.0, 70.0, -276.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set stone_brick - Region: (245.0, 72.0, -277.0) - (254.0, 72.0, -266.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set stone_brick - Region: (252.0, 72.0, -268.0) - (261.0, 72.0, -259.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set stone_brick - Region: (258.0, 72.0, -262.0) - (266.0, 72.0, -253.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set wood - Region: (260.0, 73.0, -253.0) - (264.0, 77.0, -253.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /undo
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set wood - Region: (260.0, 73.0, -255.0) - (264.0, 77.0, -255.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /set wood - Region: (260.0, 73.0, -258.0) - (260.0, 78.0, -256.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /walls wood - Region: (260.0, 73.0, -260.0) - (264.0, 77.0, -255.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /walls wood - Region: (254.0, 73.0, -266.0) - (259.0, 76.0, -261.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /walls wood - Region: (247.0, 73.0, -275.0) - (252.0, 76.0, -268.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /walls wood - Region: (254.0, 76.0, -266.0) - (259.0, 87.0, -261.0)
+[INFO] WorldEdit: Aadit_Naik (in "world"): /walls wood - Region: (247.0, 76.0, -275.0) - (252.0, 82.0, -268.0)
+[INFO] WorldEdit: Aadit_Naik (in "survival"): /pos1 - Position: (951.917033434138, 63.0, 1158.8709237198852)
+[INFO] WorldEdit: Aadit_Naik (in "survival"): /pos2 - Position: (951.5887885371259, 63.0, 1159.414094240338)
+[INFO] WorldEdit: Aadit_Naik (in "survival"): /set tnt - Region: (951.0, 63.0, 1158.0) - (951.0, 63.0, 1159.0)
+[INFO] WorldEdit: test (in "waiting_room"): up 1 - Position: (-10.520369618222173, 62.91150122938299, -3.30739551475941)
+[INFO] WorldEdit: test (in "waiting_room"): up 0 - Position: (9.027922493554513, 64.11259929648617, -15.561022987883199)
+[INFO] WorldEdit: test (in "waiting_room"): /set wood - Region: (-11.0, 63.0, -16.0) - (9.0, 63.0, -4.0)
+[INFO] WorldEdit: test (in "waiting_room"): /set air - Region: (-3.0, 68.0, -9.0) - (2.0, 68.0, -4.0)
+[INFO] WorldEdit: test (in "waiting_room"): /set air - Region: (-3.0, 64.0, -10.0) - (2.0, 67.0, -5.0)
+[INFO] WorldEdit: test (in "waiting_room"): /set lapiz_lazuli_block - Region: (-11.0, 64.0, -4.0) - (9.0, 68.0, -4.0)
+[INFO] WorldEdit: test (in "waiting_room"): /set wool - Region: (-11.0, 63.0, -16.0) - (-7.0, 63.0, -5.0)
+[INFO] WorldEdit: test (in "waiting_room"): /set cobblestone - Region: (5.0, 63.0, -16.0) - (9.0, 63.0, -5.0)
+[INFO] WorldEdit: test (in "waiting_room"): /set barrier - Region: (-12.0, 64.0, -17.0) - (-12.0, 65.0, -4.0)
+[INFO] WorldEdit: test (in "waiting_room"): up 2 - Position: (10.240790229112662, 63.7527400960682, -16.300000011920933)
+[INFO] WorldEdit: test (in "waiting_room"): /set barrier - Region: (-12.0, 64.0, -17.0) - (10.0, 64.0, -17.0)
+[INFO] WorldEdit: test (in "waiting_room"): /set barrier - Region: (-12.0, 64.0, -17.0) - (10.0, 65.0, -17.0)
+[INFO] WorldEdit: test (in "waiting_room"): /set barrier - Region: (10.0, 64.0, -17.0) - (10.0, 65.0, -4.0)
+[INFO] WorldEdit: kren (in "world"): /snow - Position: (232.0, 62.0, -177.0)
+[INFO] WorldEdit: kren (in "world"): /snow - Position: (217.0, 68.0, -174.0)
+[INFO] WorldEdit: test (in "waiting_room"): /wand
+[INFO] WorldEdit: test (in "waiting_room"): /set gold_block - Region: (-11.0, 63.0, -16.0) - (-7.0, 63.0, -5.0)
+[INFO] WorldEdit: test (in "waiting_room"): /set gold_block - Region: (-7.0, 64.0, -16.0) - (-7.0, 66.0, -5.0)
+[INFO] WorldEdit: test (in "waiting_room"): /undo
+[INFO] WorldEdit: test (in "waiting_room"): /wand
+[INFO] WorldEdit: test (in "waiting_room"): /set barrier - Region: (-11.0, 68.0, -16.0) - (9.0, 68.0, -5.0)
+[INFO] WorldEdit: test (in "waiting_room"): /set stained_glass:3 - Region: (-11.0, 68.0, -16.0) - (9.0, 68.0, -5.0)
+[INFO] WorldEdit: test (in "waiting_room"): /set air - Region: (-7.0, 66.0, -16.0) - (-7.0, 66.0, -5.0)
+[INFO] WorldEdit: test (in "waiting_room"): /set barrier - Region: (-7.0, 65.0, -5.0) - (-7.0, 65.0, -5.0)
+[INFO] WorldEdit: test (in "waiting_room"): /set gold - Region: (5.0, 63.0, -16.0) - (9.0, 63.0, -5.0)
+[INFO] WorldEdit: test (in "waiting_room"): /set air - Region: (-7.0, 64.0, -16.0) - (-7.0, 65.0, -5.0)
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): up 1 - Position: (175.2857519563818, 164.25936615811818, -37.224978895745416)
+[INFO] WorldEdit: test (in "world"): up 1 - Position: (173.62248285851544, 163.88752289699997, -37.83942520929158)
+[INFO] WorldEdit: test (in "world"): up 1 - Position: (173.9809964387217, 164.0, -37.674081007553426)
+[INFO] WorldEdit: test (in "world"): up 1 - Position: (173.52129467333035, 165.0, -37.94109629538076)
+[INFO] WorldEdit: test (in "world"): up 1 - Position: (203.89737000561118, 170.9017744159057, -53.160166188252596)
+[INFO] WorldEdit: test (in "world"): up 1 - Position: (203.5, 171.0, -53.5)
+[INFO] WorldEdit: test (in "world"): /copy
+[INFO] WorldEdit: test (in "world"): /copy
+[INFO] WorldEdit: test (in "survival"): /paste - Position: (667.0, 78.0, -432.0)
+[INFO] WorldEdit: test (in "survival"): /undo
+[INFO] WorldEdit: test (in "survival"): /paste - Position: (667.0, 147.0, -432.0)
+[INFO] WorldEdit: test (in "survival"): /wand
+[INFO] WorldEdit: test (in "survival"): /set air - Region: (647.0, 149.0, -435.0) - (651.0, 149.0, -429.0)
+[INFO] WorldEdit: test (in "survival"): /set gold - Region: (647.0, 149.0, -435.0) - (651.0, 149.0, -429.0)
+[INFO] WorldEdit: test (in "waiting_room"): /set air - Region: (-5.0, 64.0, -16.0) - (-5.0, 66.0, -5.0)
+[INFO] WorldEdit: test (in "world"): /set gold - Region: (519.0, 66.0, 518.0) - (520.0, 66.0, 519.0)
+[INFO] WorldEdit: test (in "survival"): /set iron - Region: (647.0, 149.0, -435.0) - (651.0, 149.0, -429.0)
+[INFO] WorldEdit: test (in "survival"): thru
+[INFO] WorldEdit: test (in "survival"): /set gold - Region: (647.0, 149.0, -435.0) - (651.0, 149.0, -429.0)
+[INFO] WorldEdit: test (in "survival"): /set air - Region: (647.0, 149.0, -435.0) - (651.0, 149.0, -429.0)
+[INFO] WorldEdit: test (in "survival"): up 2 - Position: (690.841824321241, 138.96243491322193, -444.92542788421775)
+[INFO] WorldEdit: test (in "survival"): up 2 - Position: (646.4789501735545, 161.9917747464275, -416.06253623442865)
+[INFO] WorldEdit: HelpLess (in "world"): /wand
+[INFO] WorldEdit: HelpLess (in "world"): help
+[INFO] WorldEdit: HelpLess (in "world"): /help 2
+[INFO] WorldEdit: HelpLess (in "world"): /copy
+[INFO] WorldEdit: HelpLess (in "world"): /paste - Position: (186.0, 65.0, 35.0)
+[INFO] WorldEdit: HelpLess (in "world"): /paste - Position: (202.0, 62.0, 27.0)
+[INFO] WorldEdit: HelpLess (in "world"): /paste - Position: (201.0, 63.0, 29.0)
+[INFO] WorldEdit: test (in "waiting_room"): /set water - Region: (5.0, 63.0, -16.0) - (9.0, 63.0, -5.0)
+[INFO] WorldEdit: test (in "waiting_room"): /set air - Region: (5.0, 63.0, -16.0) - (9.0, 63.0, -5.0)
+[INFO] WorldEdit: test (in "waiting_room"): /set gold - Region: (5.0, 63.0, -16.0) - (9.0, 63.0, -5.0)
+[INFO] WorldEdit: test (in "survival"): up 1 - Position: (666.3299108934593, 164.12662217542973, -424.43574600507895)
+[INFO] WorldEdit: test (in "survival"): up 1 - Position: (668.5961440111241, 165.0, -424.4846266842035)
+[INFO] WorldEdit: test (in "survival"): up 1 - Position: (667.3304965470116, 166.0, -425.7055394951819)
+[INFO] WorldEdit: test (in "survival"): floodfill barrier 3
+[INFO] WorldEdit: test (in "waiting_room"): thru
+[INFO] WorldEdit: test (in "world"): /set gold - Region: (519.0, 66.0, 518.0) - (520.0, 66.0, 519.0)
+[INFO] WorldEdit: test (in "world"): /set gold - Region: (519.0, 66.0, 518.0) - (520.0, 66.0, 519.0)
+[INFO] WorldEdit: test (in "world"): /set ender_portal - Region: (519.0, 66.0, 518.0) - (520.0, 66.0, 519.0)
+[INFO] WorldEdit: test (in "world"): /set ender_portal - Region: (519.0, 66.0, 518.0) - (520.0, 66.0, 519.0)
+[INFO] WorldEdit: test (in "world"): /undo
+[INFO] WorldEdit: test (in "world"): /set gold - Region: (518.0, 66.0, 517.0) - (521.0, 66.0, 520.0)
+[INFO] WorldEdit: test (in "world"): /set gold - Region: (518.0, 66.0, 517.0) - (521.0, 66.0, 520.0)
+[INFO] WorldEdit: test (in "world"): /set gold - Region: (518.0, 66.0, 517.0) - (521.0, 66.0, 520.0)
+[INFO] WorldEdit: test (in "world"): /set gold - Region: (519.0, 66.0, 518.0) - (520.0, 66.0, 519.0)
+[INFO] WorldEdit: test (in "world"): /set gold - Region: (508.0, 68.0, 520.0) - (508.0, 69.0, 521.0)
+[INFO] WorldEdit: test (in "survival"): floodfill air 5
+[INFO] WorldEdit: test (in "survival"): up 1 - Position: (689.9745260641705, 144.60706001688087, -441.7904363831318)
+[INFO] WorldEdit: test (in "survival"): up 2 - Position: (642.0905439870118, 154.76078814859798, -423.77060817304255)
+[INFO] WorldEdit: test (in "survival"): up 2 - Position: (642.4229980535455, 156.0, -420.8709925926972)
+[INFO] WorldEdit: kren (in "world"): /snow - Position: (201.0, 71.0, -15.0)
+[INFO] WorldEdit: kren (in "world"): tree
+[INFO] WorldEdit: kren (in "world"): floodfill tree 100
+[INFO] WorldEdit: kren (in "world"): floodfill tree 5
+[INFO] WorldEdit: kren (in "world"): floodfill darkoak 5
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): thru
+[INFO] WorldEdit: test (in "world"): up 1 - Position: (338.1408605538191, 95.2399010632231, -177.88414795542218)
+[INFO] WorldEdit: test (in "world"): up 1 - Position: (75.46464897043354, 89.71557921502513, 128.9952133405786)
+[INFO] WorldEdit: test (in "world"): /expand vert - Region: 
+[INFO] WorldEdit: test (in "world"): /expand vert - Region: (75.0, 65.0, -169.0) - (317.0, 89.0, 128.0)
+[INFO] WorldEdit: YeeterDev949 (in "world"): /set TNT - Region: (252.0, 63.0, -141.0) - (285.0, 68.0, -98.0)
+[INFO] WorldEdit: YeeterDev949 (in "world"): /set TNT - Region: (251.0, 69.0, -140.0) - (285.0, 75.0, -98.0)
+[INFO] WorldEdit: test (in "world"): up 1 - Position: (246.56710983212784, 79.53704226591903, -93.6753913247785)
+[INFO] WorldEdit: test (in "world"): /set air - Region: (250.0, 63.0, -121.0) - (250.0, 70.0, -97.0)
+[INFO] WorldEdit: test (in "world"): /set air - Region: (251.0, 63.0, -141.0) - (286.0, 63.0, -97.0)
+[INFO] WorldEdit: test (in "world"): /set water - Region: (250.0, 62.0, -111.0) - (260.0, 62.0, -97.0)
+[INFO] WorldEdit: test (in "world"): /set water - Region: (249.0, 36.0, -98.0) - (250.0, 61.0, -98.0)

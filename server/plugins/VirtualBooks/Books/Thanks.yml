@@ -1,0 +1,14 @@
+command: thanks
+permission: thanks.perm
+Title: ThanksBook
+Author: TheBlazingPro
+physical: true
+pages:
+  '1':
+  - '&2Thanks for &2downloading the plugin'
+  - ' '
+  - '&cMade with love by'
+  - '&c -TheBlazingPro <3'
+lore:
+- '&aThanks for downloading the plugin!'
+- '&6Lore can be added to physical books!'

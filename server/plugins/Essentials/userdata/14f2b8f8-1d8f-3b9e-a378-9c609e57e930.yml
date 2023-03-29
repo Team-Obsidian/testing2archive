@@ -1,0 +1,46 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1677174765438
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677283113556
+  login: 1677282760452
+money: '0'
+last-account-name: HelpLess
+logoutlocation:
+  world: f686797d-39e9-4ec8-b42b-bc74549738ee
+  world-name: world
+  x: 194.70534391096882
+  y: 96.0
+  z: 35.59254123724196
+  yaw: 194.55020141601562
+  pitch: 89.4000015258789
+lastlocation:
+  world: f686797d-39e9-4ec8-b42b-bc74549738ee
+  world-name: world
+  x: 578.9323518321702
+  y: 64.0
+  z: 509.15798833198164
+  yaw: -97.43692016601562
+  pitch: 26.54999351501465
+mail:
+- legacy: false
+  read: true
+  message: there might be a plugin to add back observers into here
+  sender-name: test
+  sender-uuid: 530fa97a-357f-3c19-94d3-0c5c65c18fe8
+  timestamp: 1677175752021
+  expire: 0

@@ -1,0 +1,25 @@
+permissions:
+  debug: false
+  allowOps: true
+  user-add-groups-last: false
+  log-players: true
+  createUserRecords: true
+  backend: file
+  informplayers:
+    changes: false
+  basedir: plugins/PermissionsEx
+  dashboard:
+    enabled: false
+    port: 5950
+    serveraddress: localhost:PORT
+    certificate:
+      path: Cert.jks
+      keypass: passwordToKey
+      storepass: passwordToStore
+      alias: storeAlias
+    internalip: 0.0.0.0
+    logaccess: true
+  backends:
+    file:
+      type: file
+      file: permissions.yml

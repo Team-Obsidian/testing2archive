@@ -1,0 +1,8 @@
+only-players: '&cOnly players can do this!'
+usage: '&cUsage: /blockcommand <type> <command> | Adds a block command to your current
+  location. Valid types are: player, console. Use %p for the name of the player.'
+no-permission: '&cYou do not have enough permissions to do this!'
+invalid-type: '&cThat is an invalid type! Use player or console.'
+added: '&aAdded the command ''%cmd'' to your current location!'
+no-command: '&cThere is no command here!'
+removed: '&aRemoved the command!'

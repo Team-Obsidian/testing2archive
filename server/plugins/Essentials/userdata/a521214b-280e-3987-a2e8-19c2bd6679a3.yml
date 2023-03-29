@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1677104918352
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677443210882
+  login: 1677439857523
+money: '0'
+last-account-name: kren
+logoutlocation:
+  world: f686797d-39e9-4ec8-b42b-bc74549738ee
+  world-name: world
+  x: 232.2676271043587
+  y: 53.0
+  z: 0.38136727320794817
+  yaw: 75.15031433105469
+  pitch: 40.94999694824219
+lastlocation:
+  world: f686797d-39e9-4ec8-b42b-bc74549738ee
+  world-name: world
+  x: 456.8573166717899
+  y: 74.56247854282519
+  z: -129.2795427564431
+  yaw: -55.16790771484375
+  pitch: 33.15000915527344

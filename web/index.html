@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Why did the dog cross the road?</title>
+		<meta property="og:locale" content="en-US" />
+		<meta property="og:type" content="website" />
+		<meta property="og:image" content="favicon.png" />
+		<link type="image/png" rel="shortcut icon" href="favicon.png" />
+		<script type="text/javascript" src="eaglercraft_opts.js"></script>
+		<script type="text/javascript" src="classes.js"></script>
+		<script type="text/javascript" src="fix-webm-duration.js"></script>
+		<script type="text/javascript">
+			"use strict";
+			window.addEventListener("load", () => {
+				if(document.location.href.startsWith("file:")) {
+					alert("HTTP please, do not open this file locally, run a local HTTP server and load it via HTTP");
+				}else {
+					var opts = window.eaglercraftXOpts;
+					
+					if(typeof opts === "function") window.eaglercraftXOpts = opts = opts();
+					if(typeof opts === "undefined") window.eaglercraftXOpts = opts = {};
+					
+					if(!opts.container) opts.container = "game_frame";
+					if(!opts.assetsURI) opts.assetsURI = "assets.epk";
+					if(!opts.localesURI) opts.localesURI = "lang/";
+					
+					if(!opts.joinServer)  {
+						var q = window.location.search;
+						if(typeof q === "string" && q.startsWith("?")) {
+							q = new URLSearchParams(q);
+							var s = q.get("server");
+							if(s) opts.joinServer = s;
+						}
+					}
+					
+					main();
+				}
+			});
+      function solidify() {
+        document.getElementById("game_frame").style.pointerEvents = "auto";
+      }
+		</script>
+	</head>
+	<body onclick="solidify()"style="margin:0;overflow:hidden;background-image:url('https://github.com/Team-Obsidian/assets/blob/6ee6e3ef505339f27836cf731c151a317b00dcd6/deltarunebattlebg.gif');">
+    <div style="margin:0px;width:100vw;height:100vh;pointer-events:none;overflow:visible;" id="game_frame">
+    </div>
+	</body>
+</html>

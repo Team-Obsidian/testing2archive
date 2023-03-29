@@ -1,0 +1,394 @@
+command:
+  no-arguments: |-
+    &6/%command% give &o<player> &f- &eGives player a debug stick.
+    &6/%command% reload &f- &eReloads configuration and messages.
+    &6/%command% update &f- &eChecks for updates, current &6%pluginversion%
+  invalid-arguments: '&cInvalid "%args%" arguments.'
+  reloaded: '&6DebugStick &eplugin reloaded in &6%time%s &e!'
+  player-is-offline: '&cPlayer %target% is offline!'
+  given-debugstick: '&eGiven &6Debug Stick &eto &6%target%'
+  given-debugstick-to-yourself: '&eGiven &6Debug Stick &eto &6you'
+  update-available: '&6[DebugStick] &eA new version was found: &6%newversion%'
+  update-unavailable: '&6[DebugStick] &cUnable to perform an update check.'
+  latest-update: '&6[DebugStick] &eYou are using the latest version.'
+  checking-for-updates: '&6[DebugStick] &eChecking for updates...'
+messages:
+  data-changed: '"%state%" to %blockdata%'
+  selected-state: Selected "%state%" (%blockdata%)
+  no-properties: minecraft:%material% has no properties
+  no-such-state: minecraft:%material% has no state such as "%state%"
+  no-permission: '&cYou don''t have permission to do this.'
+  plotsquared-cannot-modify-road: '&cYou don''t have permission to modify roads.'
+  plotsquared-cannot-modify-unclaimed-plot: '&cYou don''t have permission to modify
+    unclaimed plot.'
+  plotsquared-cannot-modify-owned-plot: '&cYou don''t have permission to modify your
+    own plot.'
+  plotsquared-cannot-modify-claimed-plot: '&cYou don''t have permission to modify
+    claimed plot.'
+  plotsquared-cannot-modify-friends-plot: '&cYou don''t have permission to modify
+    your friend''s plot.'
+  worldguard-no-permission: '&cYou don''t have permission to modify in this region.'
+  disabled-world: '&cYou don''t have permission to modify in this world.'
+  error-getting-next-state: Something went wrong getting block's next state.
+  error-getting-block-data: 'Something went wrong getting block''s data, reason: %reason%'
+  error-changing-data: 'Something went wrong changing block''s data, reason: %reason%'
+error-reasons:
+  block-missing: block data is missing.
+  version-not-supported: version is not supported.
+  state-missing: state is missing.
+block-materials:
+  dirt: dirt
+  ender-portal: ender_portal
+  nether-fence: nether_fence
+  snow: snow
+  spruce-fence-gate: spruce_fence_gate
+  smooth-brick: smooth_brick
+  water-lily: water_lily
+  redstone-torch-off: redstone_torch_off
+  coal-ore: coal_ore
+  spruce-door: spruce_door
+  cocoa: cocoa
+  melon-block: melon_block
+  stone-button: stone_button
+  jungle-wood-stairs: jungle_wood_stairs
+  glowstone: glowstone
+  brewing-stand: brewing_stand
+  vine: vine
+  emerald-ore: emerald_ore
+  tnt: tnt
+  redstone-lamp-on: redstone_lamp_on
+  red-mushroom: red_mushroom
+  log: log
+  soul-sand: soul_sand
+  crops: crops
+  wood-plate: wood_plate
+  air: air
+  dead-bush: dead_bush
+  redstone-comparator-on: redstone_comparator_on
+  diamond-block: diamond_block
+  web: web
+  workbench: workbench
+  bookshelf: bookshelf
+  prismarine: prismarine
+  iron-plate: iron_plate
+  barrier: barrier
+  burning-furnace: burning_furnace
+  redstone-ore: redstone_ore
+  mob-spawner: mob_spawner
+  quartz-stairs: quartz_stairs
+  note-block: note_block
+  gold-block: gold_block
+  ender-portal-frame: ender_portal_frame
+  ladder: ladder
+  wall-banner: wall_banner
+  detector-rail: detector_rail
+  nether-warts: nether_warts
+  grass: grass
+  piston-base: piston_base
+  smooth-stairs: smooth_stairs
+  redstone-wire: redstone_wire
+  trapped-chest: trapped_chest
+  birch-door: birch_door
+  birch-fence-gate: birch_fence_gate
+  wood-step: wood_step
+  diode-block-off: diode_block_off
+  bedrock: bedrock
+  double-stone-slab2: double_stone_slab2
+  lever: lever
+  netherrack: netherrack
+  iron-fence: iron_fence
+  dispenser: dispenser
+  brown-mushroom: brown_mushroom
+  red-rose: red_rose
+  brick: brick
+  sandstone: sandstone
+  acacia-stairs: acacia_stairs
+  activator-rail: activator_rail
+  cauldron: cauldron
+  packed-ice: packed_ice
+  log-2: log_2
+  jack-o-lantern: jack_o_lantern
+  sea-lantern: sea_lantern
+  cactus: cactus
+  furnace: furnace
+  stained-glass: stained_glass
+  quartz-ore: quartz_ore
+  slime-block: slime_block
+  long-grass: long_grass
+  birch-fence: birch_fence
+  skull: skull
+  red-sandstone: red_sandstone
+  fence: fence
+  acacia-fence-gate: acacia_fence_gate
+  piston-sticky-base: piston_sticky_base
+  leaves: leaves
+  obsidian: obsidian
+  iron-block: iron_block
+  cobble-wall: cobble_wall
+  mossy-cobblestone: mossy_cobblestone
+  gold-ore: gold_ore
+  ender-stone: ender_stone
+  cobblestone: cobblestone
+  leaves-2: leaves_2
+  hay-block: hay_block
+  jukebox: jukebox
+  sugar-cane-block: sugar_cane_block
+  standing-banner: standing_banner
+  acacia-fence: acacia_fence
+  powered-rail: powered_rail
+  piston-moving-piece: piston_moving_piece
+  soil: soil
+  sand: sand
+  diode-block-on: diode_block_on
+  bed-block: bed_block
+  monster-eggs: monster_eggs
+  wool: wool
+  mycel: mycel
+  command: command
+  fence-gate: fence_gate
+  pumpkin-stem: pumpkin_stem
+  dragon-egg: dragon_egg
+  gravel: gravel
+  enchantment-table: enchantment_table
+  portal: portal
+  pumpkin: pumpkin
+  double-step: double_step
+  wood: wood
+  anvil: anvil
+  jungle-fence-gate: jungle_fence_gate
+  ender-chest: ender_chest
+  sign-post: sign_post
+  redstone-torch-on: redstone_torch_on
+  dropper: dropper
+  flower-pot: flower_pot
+  iron-trapdoor: iron_trapdoor
+  lapis-ore: lapis_ore
+  daylight-detector: daylight_detector
+  trap-door: trap_door
+  chest: chest
+  sandstone-stairs: sandstone_stairs
+  snow-block: snow_block
+  stained-clay: stained_clay
+  cake-block: cake_block
+  clay: clay
+  quartz-block: quartz_block
+  torch: torch
+  rails: rails
+  carrot: carrot
+  thin-glass: thin_glass
+  redstone-lamp-off: redstone_lamp_off
+  brick-stairs: brick_stairs
+  iron-ore: iron_ore
+  dark-oak-door: dark_oak_door
+  redstone-comparator-off: redstone_comparator_off
+  ice: ice
+  hopper: hopper
+  cobblestone-stairs: cobblestone_stairs
+  stone-slab2: stone_slab2
+  red-sandstone-stairs: red_sandstone_stairs
+  melon-stem: melon_stem
+  piston-extension: piston_extension
+  wood-button: wood_button
+  glass: glass
+  birch-wood-stairs: birch_wood_stairs
+  beacon: beacon
+  wooden-door: wooden_door
+  acacia-door: acacia_door
+  carpet: carpet
+  jungle-door: jungle_door
+  nether-brick: nether_brick
+  yellow-flower: yellow_flower
+  stained-glass-pane: stained_glass_pane
+  stone-plate: stone_plate
+  hard-clay: hard_clay
+  daylight-detector-inverted: daylight_detector_inverted
+  emerald-block: emerald_block
+  coal-block: coal_block
+  glowing-redstone-ore: glowing_redstone_ore
+  huge-mushroom-2: huge_mushroom_2
+  huge-mushroom-1: huge_mushroom_1
+  spruce-fence: spruce_fence
+  dark-oak-stairs: dark_oak_stairs
+  potato: potato
+  jungle-fence: jungle_fence
+  lapis-block: lapis_block
+  wood-stairs: wood_stairs
+  double-plant: double_plant
+  iron-door-block: iron_door_block
+  spruce-wood-stairs: spruce_wood_stairs
+  sponge: sponge
+  wall-sign: wall_sign
+  sapling: sapling
+  step: step
+  tripwire-hook: tripwire_hook
+  wood-double-step: wood_double_step
+  dark-oak-fence: dark_oak_fence
+  nether-brick-stairs: nether_brick_stairs
+  gold-plate: gold_plate
+  diamond-ore: diamond_ore
+  stone: stone
+  redstone-block: redstone_block
+  dark-oak-fence-gate: dark_oak_fence_gate
+  tripwire: tripwire
+block-states:
+  check-decay: check_decay
+  north: north
+  south: south
+  attached: attached
+  age: age
+  open: open
+  nodrop: nodrop
+  moisture: moisture
+  explode: explode
+  east: east
+  variant: variant
+  extended: extended
+  shape: shape
+  west: west
+  delay: delay
+  suspended: suspended
+  decayable: decayable
+  eye: eye
+  damage: damage
+  layers: layers
+  part: part
+  wet: wet
+  half: half
+  power: power
+  has-record: has_record
+  type: type
+  level: level
+  facing: facing
+  disarmed: disarmed
+  mode: mode
+  lit: lit
+  seamless: seamless
+  color: color
+  axis: axis
+  powered: powered
+  triggered: triggered
+  stage: stage
+  bites: bites
+  rotation: rotation
+block-data-values:
+  red-sand: red_sand
+  brick: brick
+  east: east
+  subtract: subtract
+  smooth-sandstone: smooth_sandstone
+  east-west: east_west
+  ascending-east: ascending_east
+  chiseled-stonebrick: chiseled_stonebrick
+  brown: brown
+  ascending-south: ascending_south
+  cracked-stonebrick: cracked_stonebrick
+  orange: orange
+  cobblestone: cobblestone
+  double-fern: double_fern
+  head: head
+  north: north
+  granite: granite
+  chiseled: chiseled
+  center: center
+  mossy-brick: mossy_brick
+  all-inside: all_inside
+  stem: stem
+  up-z: up_z
+  y: y
+  chiseled-brick: chiseled_brick
+  z: z
+  default: default
+  yellow: yellow
+  syringa: syringa
+  prismarine-bricks: prismarine_bricks
+  lime: lime
+  double-rose: double_rose
+  ascending-west: ascending_west
+  smooth-granite: smooth_granite
+  black: black
+  x: x
+  up-x: up_x
+  down: down
+  south: south
+  top: top
+  poppy: poppy
+  lines z: lines z
+  pink-tulip: pink_tulip
+  west: west
+  cracked-brick: cracked_brick
+  all-stem: all_stem
+  magenta: magenta
+  bottom: bottom
+  coarse-dirt: coarse_dirt
+  red-sandstone: red_sandstone
+  lines x: lines x
+  sticky: sticky
+  south-east: south_east
+  smooth-red-sandstone: smooth_red_sandstone
+  green: green
+  'true': 'true'
+  birch: birch
+  ascending-north: ascending_north
+  normal: normal
+  red-tulip: red_tulip
+  oxeye-daisy: oxeye_daisy
+  double-grass: double_grass
+  podzol: podzol
+  all-outside: all_outside
+  dirt: dirt
+  dark-oak: dark_oak
+  sand: sand
+  red: red
+  houstonia: houstonia
+  gray: gray
+  upper: upper
+  down-x: down_x
+  smooth-andesite: smooth_andesite
+  down-z: down_z
+  chiseled-red-sandstone: chiseled_red_sandstone
+  blue: blue
+  north-east: north_east
+  orange-tulip: orange_tulip
+  pink: pink
+  paeonia: paeonia
+  wood-old: wood_old
+  smooth-diorite: smooth_diorite
+  dead-bush: dead_bush
+  purple: purple
+  south-west: south_west
+  acacia: acacia
+  foot: foot
+  stone-brick: stone_brick
+  nether-brick: nether_brick
+  diorite: diorite
+  light-blue: light_blue
+  mossy-stonebrick: mossy_stonebrick
+  mossy-cobblestone: mossy_cobblestone
+  lower: lower
+  north-south: north_south
+  fern: fern
+  compare: compare
+  lines: lines
+  quartz: quartz
+  none: none
+  blue-orchid: blue_orchid
+  up: up
+  dark-prismarine: dark_prismarine
+  prismarine: prismarine
+  sunflower: sunflower
+  spruce: spruce
+  chiseled-sandstone: chiseled_sandstone
+  cyan: cyan
+  allium: allium
+  north-west: north_west
+  tall-grass: tall_grass
+  stonebrick: stonebrick
+  white: white
+  sandstone: sandstone
+  andesite: andesite
+  'false': 'false'
+  oak: oak
+  jungle: jungle
+  silver: silver
+  white-tulip: white_tulip
+  stone: stone

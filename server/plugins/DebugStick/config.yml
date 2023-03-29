@@ -1,0 +1,48 @@
+config-version: 1
+enabled: true
+custom-command: debugstick
+item:
+  custom-name: Debug Stick
+  enchanted: true
+  material: STICK
+  data: 0
+  lores: []
+  colored-lores: true
+allowed-worlds:
+  reverse: true
+  list:
+  - disabledworld
+  bypass-permission: true
+allowed-gamemodes:
+  creative: true
+  survival: false
+  adventure: false
+use-actionbar:
+  changing-data: true
+  selecting-state: true
+  no-properties: true
+  no-such-state: true
+  no-permission: false
+  worldguard-no-permission: false
+  plotsquared-no-permission: false
+  error-messages: true
+  disabled-world: false
+no-perm-messages:
+  default-modify: false
+  worldguard-modify: true
+  plotsquared-modify: true
+  disabled-world: true
+permissions:
+  modify: debugstick.modify
+  command-use: debugstick.command.use
+  command-give: debugstick.command.give
+  command-give-others: debugstick.command.give.others
+  command-reload: debugstick.command.reload
+  command-check-for-updates: debugstick.command.update
+  disabled-world-bypass: debugstick.world.{world}
+  plotsquared-modify-roads: debugstick.modify.plots.roads
+  plotsquared-modify-claimed-plots: debugstick.modify.plots.claimed
+  plotsquared-modify-unclaimed-plots: debugstick.modify.plots.unclaimed
+  plotsquared-modify-friend-plots: debugstick.modify.plots.friend
+  plotsquared-modify-owned-plots: debugstick.modify.plots.owned
+  worldguard-modify-bypass: debugstick.worldguard.bypass

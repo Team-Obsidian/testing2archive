@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1676556865721
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677164847639
+  login: 1677164782302
+money: '0'
+last-account-name: Tb_who_is
+logoutlocation:
+  world: 51bc3387-ceaf-46c0-a90c-7ba2c56f16c7
+  world-name: waiting_room
+  x: 2.69999998807907
+  y: 66.0
+  z: 6.69999998807907
+  yaw: 348.1500549316406
+  pitch: 2.100008249282837
+lastlocation:
+  world: f686797d-39e9-4ec8-b42b-bc74549738ee
+  world-name: world
+  x: 267.0663605114193
+  y: 63.947008283031806
+  z: -108.04572033774501
+  yaw: 60.30006790161133
+  pitch: -12.600011825561523

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1676654855515
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677173746085
+  login: 1677172981743
+money: '0'
+last-account-name: fart
+logoutlocation:
+  world: f686797d-39e9-4ec8-b42b-bc74549738ee
+  world-name: world
+  x: 527.0081834352187
+  y: 68.0
+  z: 514.6790705591313
+  yaw: 310.8631591796875
+  pitch: -33.0000114440918
+lastlocation:
+  world: f686797d-39e9-4ec8-b42b-bc74549738ee
+  world-name: world
+  x: 209.3377255995621
+  y: 87.50285977221014
+  z: -101.85295912112788
+  yaw: 77.10012817382812
+  pitch: 25.500009536743164
